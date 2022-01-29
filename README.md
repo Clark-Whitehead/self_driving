@@ -30,6 +30,6 @@ jupyter notebook --notebook-dir ~/
 
 #### 5. In your browser running Jupyter, navigate into the directory you just downloaded from our github
 
-#### 6. Click on spam_detection_perceptron_from_scratch.ipynb
+#### 6. Click on race_car_gym.ipynb
 
 #### 7. Run the cells in order
