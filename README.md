@@ -1,6 +1,6 @@
 # I built a real self driving car Mom!
 
-### AI car learns to drive
+### AI car learns to drive in simulation
 
 <img src="https://github.com/Clark-Whitehead/neural_net_email_spam_detection/blob/main/spam.webp?raw=true" width="500" alt="sample_output">
 
