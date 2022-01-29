@@ -1,6 +1,6 @@
 # I built a real self driving car Mom!
 
-### AI car learns to drive... in simulation o_0
+### AI car learns to drive... in simulation (o_0)
 
 <img src="https://github.com/Clark-Whitehead/self_driving/blob/master/raceCar.jpg?raw=true" width="500" alt="sample_output">
 
