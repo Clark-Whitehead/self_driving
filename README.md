@@ -2,7 +2,7 @@
 
 ### AI car learns to drive... in simulation :(
 
-<img src="https://github.com/Clark-Whitehead/neural_net_email_spam_detection/blob/main/spam.webp?raw=true" width="500" alt="sample_output">
+<img src="https://github.com/Clark-Whitehead/self_driving/blob/master/raceCar.jpg?raw=true" width="500" alt="sample_output">
 
 ### How to run:
 
